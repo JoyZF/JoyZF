@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **wooduan**
 
 - 📫 How to reach me **joyssss94@gmail.com**
+- 📫 blog https://www.bbpp.online/
 
 <p align="left">
 </p>
