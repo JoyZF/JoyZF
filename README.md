@@ -1,7 +1,3 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JoyZF&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-
 <h1 align="center">Hi 👋, I'm joy</h1>
 <h3 align="center">A passionate backend developer from china</h3>
 
