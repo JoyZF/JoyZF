@@ -8,6 +8,7 @@
 
 <p align="left">
 </p>
+
 ![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
 
 <h3 align="left">Languages and Tools:</h3>
