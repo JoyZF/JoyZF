@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm joy</h1>
 <h3 align="center">A passionate backend developer from china</h3>
 
-- 🔭 I’m currently working on **wooduan**
-
 - 📫 How to reach me **joyssss94@gmail.com**
 - 📫 blog https://www.bbpp.online/
 
