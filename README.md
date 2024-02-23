@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm joy</h1>
-<h3 align="center">A passionate backend developer from china</h3>
+<h1>Hi 👋, I'm joy</h1>
+<h3>A passionate backend developer from china</h3>
+
+![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif)
+![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif)
+![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif)
 
 - 📫 How to reach me **joyssss94@gmail.com**
 - 📫 blog https://www.bbpp.online/
